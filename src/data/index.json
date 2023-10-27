@@ -1,0 +1,55 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Machine Learning & Natural Language Processing",
+        "description": ""
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Data Structures and Algorithms",
+        "description": ""
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "SQL",
+        "description": ""
+      },
+      {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "Web Development",
+        "description": ""
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/placeholder-image.png",
+        "title": "Simulator for SDLX Processor",
+        "description": " Developed a simulator for the SDLX processor. Implementing a Python-based solution utilizing  libraries such as Numpy and Pandas, translating 32-bit instruction codes into executable program  sequences ensuring accurate execution and output generation through memory-mapped IO. Created a visually appealing user interface using Tkinter, providing a view of system components and  real-time updates. The interface enhanced user interaction and facilitated intuitive control over the  simulator's functionalities. Ensured the reliability of the simulator through comprehensive testing, validation, and error handling  mechanisms. Implemented error reporting features to maintain and facilitate efficient troubleshooting.",
+        "link": "View In Github",
+        "web":"https://github.com/arun-reddy-a/SDLX-Simulator"
+      },
+      {
+        "id": "2",
+        "src": "./img/placeholder-image-1.png",
+        "title": "Realtime ChatApp Using MERN Stack",
+        "description": "Designed and implemented a full-stack chat application using JavaScript, React for the frontend, and  Node.js with Express for the backend. Ensured a seamless user experience with a responsive design. Developed secure registration and login functionalities, ensuring data privacy. Integrated an avatar  selection feature for user personalization. Integrated Socket.io for real-time, bidirectional communication, enhancing the application's responsiveness and enabling one-to-one socket chat functionality.",
+        "link": "View In Github",
+        "web":"https://github.com/anish-karnik/chatapp"
+      },
+      {
+        "id": "3",
+        "src": "./img/placeholder-image-2.png",
+        "title": "Algorithmic Trading using SmartAPI",
+        "description": "Created a smart program for trading stocks that uses clever strategies to know buying and selling signals. Delivered exceptional market performance, surpassing Nifty 50, and achieving a return of  approximately 75% on prominent stocks like Reliance, resulting in an alpha of 43%.  Understood the working of stock broker APIs, the use of libraries such as TA-lib and importance of algorithmic trading. The program was coded in Python and tested with past data to make it profitable.",
+        "link": "View In Github",
+        "web":"https://github.com/VeD-973/Algorithmic-Trading-"
+      }
+      
+    ]
+  }
